@@ -1,0 +1,8 @@
+{
+  "hostaddress": "25.141.80.150",
+  "hostport": 1337,
+  "username": "jsonapiUsername",
+  "password": "jsonapiPassword",
+  "salt": "asdfi598y2kll",
+  "hidePrompt": true
+}
