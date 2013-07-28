@@ -9,6 +9,8 @@ If the server sends back a reply (i.e.: the executed command has a return value)
 
 Additionally, the interface also supports an 'advanced' mode in which the user is allowed to simply enter command parameters similar to a CLI.
 
+The software has an updater utility which you can run in order to get updated binaries from the internet (note that this is not required, though. This functionality only exists because I wanted to try my hand at writing an updater tool that worked over the internet).
+
 Screenshots
 --------------------------------
 
