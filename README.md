@@ -24,7 +24,7 @@ Using this software requires the user to have the Python SDK installed (version 
 External Links
 --------------------------------
 
-* BukkitJSONAPI plugin: http://dev.bukkit.org/bukkit-plugins/jsonapi/
+* JSONAPI plugin: https://github.com/alecgorge/jsonapi
 * Python: http://www.python.org/
 
 [screenshot0]: http://i.imgur.com/imSFnur.png "Screenshot 0"
