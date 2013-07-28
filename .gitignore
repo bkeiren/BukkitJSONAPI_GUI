@@ -213,3 +213,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+!BukkitJSONAPI_GUI/bin/
+
+BukkitJSONAPI_GUI/bin/*
+!BukkitJSONAPI_GUI/bin/*.dll
+!BukkitJSONAPI_GUI/bin/*.exe
+!BukkitJSONAPI_GUI/bin/*.py
