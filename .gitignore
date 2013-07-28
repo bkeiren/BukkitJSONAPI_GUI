@@ -220,3 +220,4 @@ BukkitJSONAPI_GUI/bin/*
 !BukkitJSONAPI_GUI/bin/*.dll
 !BukkitJSONAPI_GUI/bin/*.exe
 !BukkitJSONAPI_GUI/bin/*.py
+BukkitJSONAPI_GUI/bin/*.vshost.exe
